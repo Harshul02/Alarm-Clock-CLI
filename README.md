@@ -111,6 +111,13 @@ Clone the repository:
 git clone <repository-url>
 cd Alarm-Clock-CLI
 ```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 ---
 
 ## Running the Application
